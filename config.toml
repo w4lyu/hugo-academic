@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://kcplab.netlify.app/"
+baseurl = "https://kcplt.netlify.app/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "KCP lab"
