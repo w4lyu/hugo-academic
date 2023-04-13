@@ -17,7 +17,5 @@ url_pdf = "https://ieeexplore.ieee.org/document/9877872"
 [[authors]]
     name = "Qing Guo"
 [[authors]]
-    name = "Di Zhou"
-[[authors]]
     name = "Weiqiang Xu"
 +++
