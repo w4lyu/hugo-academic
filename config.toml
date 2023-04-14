@@ -2,12 +2,12 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://kcplt.cn/"
+baseurl = "https://www.kcplt.cn/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "KCP lab"
 math = true
-copyright = "&copy; Wentao Lv, 2023 "
+copyright = "&copy; Wentao Lyu, 2023 "
 
 [taxonomies]
 category = "categories"
