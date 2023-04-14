@@ -33,18 +33,16 @@ tag = "tags"
   position = 1
 
   [[params.slogan_columns]]
-    title1 = "Introduction"
-    title2 = "Introduction"
-    title3 = "Introduction"
-    text1 = "Konw"
-    text2 = "第二段"
-    text3 = "第三段"
+    title1 = "Knowledge"
+    title2 = "Courage"
+    title3 = "Persistant"
+    title4 = "Persistant"
     weight = 1
 
 
   [[params.slogan_columns]]
     title1 = "Introduction"
-    text1 = "The person in charge of the KCP Laboratory is Associate Professor Lu Wentao, who obtained a doctorate degree from Shanghai Jiaotong University and is currently working at Zhejiang Sci-tech University. He focuses on theoretical research such as network system optimization and deep learning, as well as related theory and application research on image processing."
+    text1 = " The person in charge of the KCP Laboratory is Associate Professor Lu Wentao, who obtained a doctorate degree from Shanghai Jiaotong University and is currently working at Zhejiang Sci-tech University. He focuses on theoretical research such as network system optimization and deep learning, as well as related theory and application research on image processing."
     text2 = "第二段"
     text3 = "第三段"
     link = "/mission"
@@ -54,14 +52,13 @@ tag = "tags"
 
 
   [[params.slogan_columns]]
-    title1 = "Introduction"
-    text1 = "The person in charge of the KCP Laboratory is Associate Professor Lu Wentao, who obtained a doctorate degree from Shanghai Jiaotong University and is currently working at Zhejiang Sci-tech University. He focuses on theoretical research such as network system optimization and deep learning, as well as related theory and application research on image processing."
-    text2 = "第二段"
-    text3 = "第三段"
-    link = "/mission"
-    link_text = "Read more"
-    mail = "alvinlwt@zstu.edu.cn"
+    title1 = "Updates"
+    text1 = "1. Next topic: KSVD-Based sparse representation model for image denoising, reported by P. Chen."
+    text2 = "2. Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Processing Letters."
+    text3 = "3. Y. Zheng, Efficient confilict network for defect dection, sumbitted to IEEE Transactions on Instrumentation and Measurement."
+    text4 = "4. K. Yu, Fa-yolo network design for fabric defect dection, sumbitted to IEIEE Transactions on Fundamentals."
     weight = 1
+
 
   # Selected Publications section.
   [params.publications_selected]
