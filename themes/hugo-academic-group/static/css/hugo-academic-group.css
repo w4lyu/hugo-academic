@@ -63,7 +63,8 @@ header{
 }
 
 .slogan-column {
-  text-align: justify;
+  font-size: 12px;
+  text-align: center;
   width: 100%
   /* margin-left: 200px; */
 }
