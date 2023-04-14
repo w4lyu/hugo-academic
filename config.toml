@@ -21,7 +21,7 @@ tag = "tags"
   address = "3566 Spirit Drive NEW HAVEN Connecticut"
 
   slogan = "Laboratory of KCP （Image Processing）"
-  slogan_text = "Room 1013, Building No.25, Zhejiang Sci-Tech University"
+  slogan_text = "School of Information Science and Engineering, Zhejiang Sci-Tech University"
 
   [params.logo]
   image = "img/logo.jpg"
@@ -45,8 +45,7 @@ tag = "tags"
     text1 = "1. Wentao Lyu, Ph.D. from Shanghai Jiao Tong University, Associate Professor of School of Information, Zhejiang Sci-tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of Electrical and Computer Engineering, University of Waterloo, Canada."
     text2 = "2. Research interests include machine learning, intelligent image processing and network optimization. Has published more than 40 SCI/EI journals, approved and applied for more than 30 patents."
     text3 = "3. Focus on theoretical research and engineering application in artificial intelligence, digital technology and other related fields. Participate in the intelligent transformation for industrial enterprises, including design, production, management and service; Develop industrial IOT systems, MES and ERP, just name a few."
-    link = "/mission"
-    link_text = "Read more"
+    link_text = "Address: room 1013, building #25, Zhejiang Sci-Tech University (@ XiaSha)"
     mail = "alvinlwt@zstu.edu.cn"
     weight = 1
 
