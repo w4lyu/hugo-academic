@@ -51,10 +51,11 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title1 = "Updates"
-    text1 = "1.Next topic: KSVD-Based sparse representation model for image denoising on 2023.4.27, reported by P. Chen."
-    text2 = "2.W. Lyu, A novel sparse Bayesian learning modeling for image classification, to appear in IEICE Trans. Fund., Apr. 2023."
-    text3 = "3.Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett."
-    text4 = "4.X. Yu, Progressive pyramid network for defect dection, to appear in Knowledge-based systems, Febr. 2023."
+    text1 = "[Next topic] KSVD-Based sparse representation model for image denoising on 2023.4.27, reported by P. Chen."
+    text2 = "W. Lyu, A novel sparse Bayesian learning modeling for image classification, to appear in IEICE Trans. Fund., Apr. 2023."
+    text3 = "Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett."
+    text4 = "X. Yu, Progressive pyramid network for defect dection, to appear in Knowledge-based systems, Febr. 2023."
+    text5 = "Y. Zheng, Efficient conflict network for defect detection, submitted to IEEE Trans. Instrum. Measur."
     weight = 1
 
 
