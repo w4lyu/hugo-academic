@@ -1,12 +1,14 @@
 +++
-date = "2016-07-12T15:50:58+02:00"
-short_text = ""
-title = "Markdown ipsum"
+date = "2023-04-13T15:50:58+02:30"
+short_text = "GAMP-SBL learning"
+title = "Yingrou Chen"
 [[authors]]
     name = "member1"
     is_member = true
     link = "/member1"
 +++
+
+
 
 # Magorum notissima limite sua pars simus sumptis
 

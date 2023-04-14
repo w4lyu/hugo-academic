@@ -1,7 +1,7 @@
 +++
-date = "2016-07-12T15:50:58+02:00"
+date = "2023-03-12T15:50:58+02:00"
 short_text = "Example of Jupyter notebook conversion"
-title = "Jupyter Notebook"
+title = "Zhiwei Liu"
 [[authors]]
     name = "member1"
     is_member = true
@@ -11,6 +11,8 @@ title = "Jupyter Notebook"
     is_member = true
     link = "/member2"
 +++
+
+
 
 # An IJulia Preview
 
