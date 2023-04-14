@@ -20,8 +20,8 @@ tag = "tags"
   email = "mail@example.org"
   address = "3566 Spirit Drive NEW HAVEN Connecticut"
 
-  slogan = "Laboratory of KCP"
-  slogan_text = "Room 1013, Building 25, Zhejiang Sci-Tech University"
+  slogan = "Laboratory of KCP （Image Processing）"
+  slogan_text = "Room 1013, Building No.25, Zhejiang Sci-Tech University"
 
   [params.logo]
   image = "img/logo.jpg"
@@ -33,18 +33,18 @@ tag = "tags"
   position = 1
 
   [[params.slogan_columns]]
-    title1 = "Knowledge"
-    title2 = "Courage"
-    title3 = "Persistant"
-    title4 = "Persistant"
+    title1 = "Belief"
+    text1 = "1. We believe that with"
+    text2 = "2. Knowledge, Courage, and Perseverance (KCP)"
+    text3 = "3. somethings can be ACHIEVED"
     weight = 1
 
 
   [[params.slogan_columns]]
     title1 = "Introduction"
-    text1 = " The person in charge of the KCP Laboratory is Associate Professor Lu Wentao, who obtained a doctorate degree from Shanghai Jiaotong University and is currently working at Zhejiang Sci-tech University. He focuses on theoretical research such as network system optimization and deep learning, as well as related theory and application research on image processing."
-    text2 = "第二段"
-    text3 = "第三段"
+    text1 = "1. Wentao Lyu, Ph.D. from Shanghai Jiao Tong University, Associate Professor of School of Information, Zhejiang Sci-tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of Electrical and Computer Engineering, University of Waterloo, Canada."
+    text2 = "2. Research interests include machine learning, intelligent image processing and network optimization. Has published more than 40 SCI/EI journals, approved and applied for more than 30 patents."
+    text3 = "3. Focus on theoretical research and engineering application in artificial intelligence, digital technology and other related fields. Participate in the intelligent transformation for industrial enterprises, including design, production, management and service; Develop industrial IOT systems, MES and ERP, just name a few."
     link = "/mission"
     link_text = "Read more"
     mail = "alvinlwt@zstu.edu.cn"
