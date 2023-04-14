@@ -15,8 +15,12 @@
               <div class="row">
                   {{range .Site.Params.slogan_columns}}
                   <div class="col-xs-12 col-md-4">
-                      <h3>{{.title}}</h3>
-                      <p class="slogan-column">{{.text | markdownify}}</p>
+                      <h3>{{.title1}}</h3>
+                      <h3>{{.title2}}</h3>
+                      <h3>{{.title3}}</h3>
+                      <p class="slogan-column">{{.text1 | markdownify}}</p>
+                      <p class="slogan-column">{{.text2 | markdownify}}</p>
+                      <p class="slogan-column">{{.text3 | markdownify}}</p>
                   </div>
                   {{end}}
               </div>
