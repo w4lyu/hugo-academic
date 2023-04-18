@@ -12,13 +12,5 @@ url_pdf = "https://ieeexplore.ieee.org/abstract/document/9760388"
 [[authors]]
     name = "Wentao Lyu"
 
-[[authors]]
-    name = "Di Zhou"
-
-[[authors]]
-    name = "Chengqun Wang"
-
-[[authors]]
-    name = "Weiqiang Xu"
 
 +++

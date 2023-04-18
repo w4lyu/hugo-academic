@@ -11,13 +11,5 @@ url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S09507051220127
     name = "Xuyi Yu"
 [[authors]]
     name = "Wentao Lyu"
-[[authors]]
-    name = "Chengqun Wang"
-[[authors]]
-    name = "Qing Guo"
-[[authors]]
-    name = "Di Zhou"
-[[authors]]
-    name = "Weiqiang Xu"
 
 +++
