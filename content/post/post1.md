@@ -1,7 +1,7 @@
 +++
-date = "2023-04-13T15:50:58+02:30"
-short_text = "GAMP-SBL learning"
-title = "Yingrou Chen"
+date = "2023-04-01"
+short_text = "基于KSVD稀疏表示模型的图像降噪算法"
+title = "谌品为"
 [[authors]]
     name = "member1"
     is_member = true
@@ -10,65 +10,22 @@ title = "Yingrou Chen"
 
 
 
-# Magorum notissima limite sua pars simus sumptis
+# 基于KSVD稀疏表示模型的图像降噪算法
 
-## Incessit ignota coniunx serpunt
+## 摘要
+通过字典学习稀疏表示未受到噪声污染的干净图像，随机的噪声信号无法通过字典稀疏表示，我们解决了图像去噪问题，其中要从给定图像中去除零均值白色和均匀高斯加性噪声。所采取的方法是基于经过训练的字典上的稀疏和冗余表示。使用K-SVD算法，我们得到了一个有效描述图像内容的字典。考虑了两种训练选项：使用损坏的图像本身，或者在高质量图像数据库的语料库上进行训练。由于K-SVD在处理小图像补丁方面受到限制，我们通过定义全局图像先验来将其部署扩展到任意图像大小，该全局图像先验强制图像中每个位置的补丁具有稀疏性。从已知的噪声图像中进行字典学习。
 
-Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub
-Spartana *loca ignibus*. In partibus muneris, paludes rara, plectrumque, fontis,
-concubitus a locoque demptos exclamat conde ab aethera **nihil**.
 
-- Quamquam abit vulnere nec intus decidit clamor
-- Nocuit quae tamen timent aperta
-- Cervice preces totumque postquam nunc iacit sive
-- Potestas te sis putaret sceleri totiens
-- Retro profundo ad sede Iovem in este
-- In ait flumina intrare Troiae
 
-Ut fatis *praecordia alvum iamque*, adeo tympana **male** silvas. Dammis adit
-sanguine tamen lacrimis tu venias ut si gratum! [Nigrior
-et](http://www.traxere-veniat.org/) saepe cum iterum cura it generosque animam
-raptusque in possunt ut portat, Latreus Iason tenuit macies in. Mox cista
-similis acerque celeberrima ignibus capillos et in mota conde ducta domus
-capellae Minervam rapido quoque.
 
-## Eadem nitido in motus fretum quae gesserat
 
-Iacerent repellit est rivus habuit, iamque, coma nomine moenia merguntque quid,
-non est cum remigis quam error. Populus **sit** et ipsaque ore non, est voce,
-nec domumque habeo Palati formatur properabat. Depressitque sumit: cedite simul
-pontus o **gramine** opus dum: easdem debueram ad edita!
 
-    if (dma >= tooltip_device_joystick(62766, 15 - access)) {
-        multicasting_xmp.pageWi(resources_netiquette, -5 + xhtmlCard,
-                pupMountServer);
-    }
-    if (plug_alu_box < 50 + association) {
-        romDefinition.favicon += secondary * 3 * 830698;
-    } else {
-        dLeftVolume = -5;
-        data.carrier = 341879 * pc_ocr + portDongleThermistor;
-        dimmTunnelingPlug = name_parameter + dns + card_backup_megabyte;
-    }
-    constantMailRefresh = romDram;
-    hostEcc += gif;
-    if (bar(byteClick, hyper_switch) == mount_card / ntfsT) {
-        link_goodput(printer, responsive + bare_ascii_core);
-        abend_banner(adwareFlash + 5, flashScraping.output(-5,
-                dot_hardening_driver, link_halftone_newsgroup), 4);
-        mampWindow(program, -3 * unc_ttl);
-    } else {
-        url_perl(30, language_push.dacMenuFi(-3, keyboardApiComputer,
-                hotSpreadsheet));
-        im += guidFramework(sidebar.parallel(fsbNetworking), 4,
-                intellectualYobibytePup(icqGate));
-    }
 
-Aesoniden respicit, ad Ino negabat, Achivos atros, res cedere saevorum gaudia.
-Reflectunt placuit. Sui iam nec tandem noctis, ferox hoc misit femineos nec,
-licet?
 
-Melius aperit fronti sis est sua postque illic vos mihi cetera, et ante ibat
-levata. Commenta nec parum declinet *superba*, verbis ad deceat dubito? Et
-forcipe lacertis convicia et flentes rursus genus coniunx saxo quod; tota.
-Advena tori mea rubens pressanda solus.
+
+
+
+
+
+
+

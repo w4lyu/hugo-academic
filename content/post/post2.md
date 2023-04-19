@@ -1,7 +1,7 @@
 +++
-date = "2019-07-12T15:50:58+02:00"
-short_text = "Short description of post."
-title = "Pinwei Chen"
+date = "2023-04-02"
+short_text = "基于KSVD稀疏表示模型的图像降噪算法"
+title = "郑雨婷"
 [[authors]]
     name = "member"
     is_member = true
@@ -14,53 +14,8 @@ title = "Pinwei Chen"
 
 
 
-# Est Procrin
+# 基于卷积神经网络的织物图像识别方法研究进展
 
-## Terrigenam rorant colla victoria per monstra obiecit
+## 摘要
 
-Lorem *markdownum*, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut
-tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi
-convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus,
-postquam videt et mediis. Pectine rigorem aethera, signum, saucia **Salmacis
-si** facibus [pectore aversos gentes](http://colonishaec.com/levatum-tum) neve,
-et usus siqua.
-
-## Aestuque deceant fuerat quam iura
-
-Rabie [intus fugio](http://sidere.org/.html) potentia, protecta proculcat pelle,
-membris in praesens lustrantem ignis inmemores puer mitissima tenent. Et facto.
-Qui neve et, loquentis et imagine iugulo canisve oetaeas mirandum. Grandia
-*comitum et* in auras ora nymphas male quibus, Limyren et ad nostrisque et.
-Vitarit *partu*.
-
-    if (affiliate_cron_system + rdf_dashboard - worm_heap == 23) {
-        pc_drag_process.modelRateHertz = 5;
-        vleTapePost.power_restore = wavelengthTag;
-    }
-    domainVolume.flamingIrc -= flatbed_memory.biometricsFreeware.direct(
-            character(hsfRjEthics), 2) + guid_keylogger;
-    simplexAixWan.fat = copy_unit.applet_mac(memoryHome, pixel - 1 +
-            standalone);
-
-## Iura coniugium
-
-Sedesque dummodo Nesseis Actaeas minus paveant **vespere** cum radix nostra
-lanugine quamquam illi causamque funes. Auras orantem omine cum roganda deus. Ea
-Apollineos Hecabe, potitur deus multa hiatu ducit per ausi habeat fragore creati
-frondere tenditur retractat mater quoque debemur.
-
-Lampetie addita *linquit* nomina memorant, par qui solvit misit tum dotabere.
-Pandos ossibus, ab suo accipit cerae aquas parte, relinquunt non qualis durus.
-Ante vox simul **me aggere** iustius munera ut vetus volui.
-
-## Diu Acrota nativum
-
-Vaccae dies gaudens nescius; et non Cupidinis angues perdidimus per magna.
-Harenas obortas. Materna dente; custos, gravis tale, opemque armata; possim.
-Clytii contrahitur unum pectora, iaculo.
-
-Tulit fit qui nocuisse accingitur maxima, ab biformis isse *hos*. Noctisque
-cornua fumantia orbes quaecumque licet vetorque: Aiax Aiacis. Parat sensit ipsa
-compos Venerem dominae has nimiique corpore telum. Miracula cladibus fratrem.
-[Et](http://querenda-lacertis.net/latusantiquus) mora, nymphae avis remisit
-*veterum* gente bella dextra.
+工业领域中的缺陷检测是在质检过程中必不可少的任务，主要工作是对获取到的图像中的缺陷目标进行分类和定位。深度学习领域中，基于神经网络的算法能发挥其较强的性能和速度优势。由于 YOLOv5 算法在天池数据集部分类别的召回率远远低于精确率，导致整体的 mAP 不高。基于上述问题，分别在 YOLOv5 算法的分类损失和分类梯度的权重上进行改进。本文分别引入了 Eqlv1 和 Eqlv2 的损失计算方法，设计了基于 YOLOv5损失函数的 RLTv1（Recall Long Tailed v1）算法和基于 YOLOv5 梯度重加权的 RLTv2（Recall Long Tailed v2）算法，旨力于解决召回率的尾部被头部压制的问题。
