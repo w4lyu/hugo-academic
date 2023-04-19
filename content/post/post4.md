@@ -1,6 +1,6 @@
 +++
 date = "2023-04-04"
-short_text = "工业缺陷检测算法改进"
+short_text = "Apr. 2023. 工业缺陷检测算法改进"
 title = "余序宜"
 [[authors]]
     name = "member1"
