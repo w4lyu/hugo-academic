@@ -1,6 +1,6 @@
 +++
 date = "2023-04-02"
-short_text = "基于KSVD稀疏表示模型的图像降噪算法"
+short_text = "基于卷积神经网络的织物图像识别方法研究进展"
 title = "郑雨婷"
 [[authors]]
     name = "member"
