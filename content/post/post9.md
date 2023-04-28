@@ -1,6 +1,6 @@
 +++
 date = "2023-04-13"
-short_text = "基于定位蒸馏的密集目标检测"
+short_text = "Jun. 2023.基于定位蒸馏的密集目标检测"
 title = "廖龙杰"
 [[authors]]
     name = "member1"

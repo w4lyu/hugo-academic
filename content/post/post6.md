@@ -1,6 +1,6 @@
 +++
 date = "2023-04-16"
-short_text = "基于稀疏贝叶斯图像重构的发展现状和方向研究"
+short_text = "May. 2023.基于稀疏贝叶斯图像重构的发展现状和方向研究"
 title = "陈影柔"
 [[authors]]
     name = "member1"

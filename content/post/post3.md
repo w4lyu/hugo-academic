@@ -1,6 +1,6 @@
 +++
 date = "2023-04-19"
-short_text = "基于无锚框检测器和知识蒸馏的工业疵点检测算法"
+short_text = "May. 2023.基于无锚框检测器和知识蒸馏的工业疵点检测算法"
 title = "刘志伟"
 [[authors]]
     name = "member1"

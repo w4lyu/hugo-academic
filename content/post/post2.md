@@ -1,6 +1,6 @@
 +++
 date = "2023-04-20"
-short_text = "基于卷积神经网络的织物图像识别方法研究进展"
+short_text = "Apr. 2023.基于卷积神经网络的织物图像识别方法研究进展"
 title = "郑雨婷"
 [[authors]]
     name = "member"
