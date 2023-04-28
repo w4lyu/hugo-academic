@@ -1,6 +1,6 @@
 +++
-date = "2023-04-01"
-short_text = "基于KSVD稀疏表示模型的图像降噪算法"
+date = "2023-04-21"
+short_text = "Apr. 2023.基于KSVD稀疏表示模型的图像降噪算法"
 title = "谌品为"
 [[authors]]
     name = "member1"

@@ -1,5 +1,5 @@
 +++
-date = "2023-04-05"
+date = "2023-04-17"
 short_text = "基于改进3E-LDA的图像分类与识别"
 title = "靳文哲"
 [[authors]]

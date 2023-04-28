@@ -1,5 +1,5 @@
 +++
-date = "2023-04-08"
+date = "2023-04-14"
 short_text = "基于改进yolov7的行人检测算法"
 title = "娄翔飞"
 [[authors]]

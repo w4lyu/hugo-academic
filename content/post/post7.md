@@ -1,5 +1,5 @@
 +++
-date = "2023-04-07"
+date = "2023-04-15"
 short_text = "改进yolov8的缺陷检测"
 title = "余凯"
 [[authors]]
