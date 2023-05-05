@@ -42,7 +42,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title1 = "Academic Works"
-    text1 = "1. Wentao Lyu, received Ph.D. from Shanghai Jiao Tong University in 2015. Associate Professor of School of ISE, Zhejiang Sci-tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of ECE, University of Waterloo, Canada."
+    text1 = "1. Wentao Lyu(吕文涛), received Ph.D. from Shanghai Jiao Tong University in 2015. Associate Professor of School of ISE, Zhejiang Sci-Tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of ECE, University of Waterloo, Canada."
     text2 = "2. Research interests include machine learning, image processing and network optimization. Has published more than 60 SCI/EI journal and conference papers, approved and applied for more than 40 patents."
     link_text = "Address: room 1013, building #25, Zhejiang Sci-Tech University (@ XiaSha) Hangzhou, China."
     mail = "alvinlwt@zstu.edu.cn"
