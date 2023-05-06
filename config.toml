@@ -51,7 +51,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title1 = "Updates"
-    text1 = "[Next topic] Research progress in fabric image recognition methods based on convolutional neural networks May 4/2023, reported by Y. zheng."
+    text1 = "[Next topic] Research progress in fabric image recognition methods based on convolutional neural networks May 7/2023, reported by Y. zheng."
     text2 = "W. Lyu, A novel discriminative dictionary learning method for image classification, to appear in IEICE Trans. Fund., Jun. 2023."
     text3 = "Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett., Febr. 2023."
     text4 = "X. Yu, Progressive pyramid network for defect dection, to appear in Knowledge-based systems, Febr. 2023."
