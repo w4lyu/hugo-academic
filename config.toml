@@ -51,7 +51,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title1 = "Updates"
-    text1 = "[Next topic] KSVD-SBL-based model for image denoising, May 12/2023, Re-reported by P. Chen."
+    text1 = "[Next topic] Industrial defect detection based on anchor-free detectors and knowledge distillation, May 19/2023, reported by Z. Liu."
     text2 = "W. Lyu, A novel discriminative dictionary learning method for image classification, to appear in IEICE Trans. Fund., Jun. 2023."
     text3 = "Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett., Febr. 2023."
     text4 = "[Congratulations!] Progressive pyramid network for defect dection, written by Y. Xu, has been published online in Knowledge-based systems, May 2023."
