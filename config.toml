@@ -57,6 +57,7 @@ tag = "tags"
     text4 = "[Congratulations!] Progressive pyramid network for defect dection, written by Y. Xu, has been published online in Knowledge-based systems, May 2023."
     text5 = "Y. Zheng, Efficient conflict network for defect detection, submitted to IEEE Trans. Instrum. Measur., Mar. 2023."
     weight = 1
+  
 
 
   # Selected Publications section.
