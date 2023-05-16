@@ -33,17 +33,19 @@ tag = "tags"
   position = 1
 
   [[params.slogan_columns]]
-    title1 = "Engineering Works"
-    text1 = "1. AI and related digital technologies for Industrial scenarios..."
-    text2 = "2. Technical solutions and support for industrial intelligent transformation..."
-    text3 = "3. Industrial IOT systems, MES and ERP..."
+    title1 = "Wentao LYU 吕文涛"
+    text1 = "* Associate Professor"
+    text2 = "* Office: Building No.25, Room 1013-1015"
+    text3 = "* Tel: (0571)86843325"
+    text4 = "* Email: alvinlwt@zstu.edu.cn"
     weight = 1
 
 
   [[params.slogan_columns]]
-    title1 = "Academic Works"
-    text1 = "1. Wentao Lyu(吕文涛), received Ph.D. from Shanghai Jiao Tong University in 2015. Associate Professor of School of ISE, Zhejiang Sci-Tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of ECE, University of Waterloo, Canada."
-    text2 = "2. Research interests include machine learning, image processing and network optimization. Has published more than 60 SCI/EI journal and conference papers, approved and applied for more than 40 patents."
+    title1 = "Brief Biography"
+    text1 = "1. Wentao Lyu received Ph.D. from Shanghai Jiao Tong University in 2015. Associate Professor of School of ISE, Zhejiang Sci-Tech University, Master Supervisor. From 2018.9-2019.9, as a Visiting scholar at the Department of ECE, University of Waterloo, Canada."
+    text2 = "2. Academic works include machine learning, image processing and network optimization. Has published more than 60 SCI/EI journal and conference papers, approved and applied for more than 40 patents."
+    text3 = "3. Engineering works include AI and related digital technologies for Industrial scenarios; technical solutions and support for industrial intelligent transformation; and industrial IOT systems, MES and ERP..."
     link_text = "Address: room 1013, building #25, Zhejiang Sci-Tech University (@ XiaSha) Hangzhou, China."
     mail = "alvinlwt@zstu.edu.cn"
     weight = 1
