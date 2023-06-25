@@ -53,11 +53,11 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title1 = "Updates"
-    text1 = "5.[Congratulations!] The paper, Efficient conflict network for defect detection, written by Yuting Zheng, has been ACCEPTED for publication in the IEEE Trans. Instrum. Measur., Jun. 25, 2023."
-    text2 = "1.Congratulations to Xuyi Yu for being an Outstanding Graduate and An Academic Star of ZSTU, Jun. 18, 2023."
-    text3 = "2.Congratulations to Zhiwei Liu, Xuyi Yu, and Yuting Zheng for completing their master's defenses, and wish them a bright future, 25 May, 2023."
-    text4 = "3.[Congratulations!] W. Lyu, A novel discriminative dictionary learning method for image classification, to appear in IEICE Trans. Fund., Jun. 2023."
-    text5 = "4.Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett., Febr. 2023."
+    text1 = "1.[Congratulations!] The paper, Efficient conflict network for defect detection, written by Yuting Zheng, has been ACCEPTED for publication in the IEEE Trans. Instrum. Measur., Jun. 25, 2023."
+    text2 = "2.Congratulations to Xuyi Yu for being an Outstanding Graduate and An Academic Star of ZSTU, Jun. 18, 2023."
+    text3 = "3.Congratulations to Zhiwei Liu, Xuyi Yu, and Yuting Zheng for completing their master's defenses, and wish them a bright future, 25 May, 2023."
+    text4 = "4.[Congratulations!] W. Lyu, A novel discriminative dictionary learning method for image classification, to appear in IEICE Trans. Fund., Jun. 2023."
+    text5 = "5.Y. Chen, SBL model based on LHP and GAMP for image reconstruction, submitted to IEEE Signal Process. Lett., Febr. 2023."
 #   text5 = "[Congratulations!] Progressive pyramid network for defect dection, written by Y. Xu, has been published online in Knowledge-based systems, May 2023."
     weight = 1
   
